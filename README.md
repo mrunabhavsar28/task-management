@@ -8,7 +8,7 @@ Steps to run project locally:
 Go to task-management folder using cd .\task-managment\
 
 1. Clone GIT repository with command : 
-    git clone https://github.com/mrunabhavsar28/Task_Management_App.git
+    git clone https://github.com/mrunabhavsar28/task-management.git
 2. Open repository in Visual Studio
 3. Run command npm install
 4. Run command npm start
